@@ -12,9 +12,7 @@ When I'm not diving deeper into the rabbit hole of coding, I'm playing/watching 
 
 ---
 
-[![Kerri-Ann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerri-AnnBates&count_private=true&show_icons=true&layout=compact&theme=blueberry&langs_count=5)](https://github.com/Kerri-AnnBates/github-readme-stats)
-
-[![Kerri-Ann's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Kerri-AnnBates&count_private=true&show_icons=true&layout=compact&theme=blueberry&langs_count=5)](https://github.com/Kerri-AnnBates/github-readme-stats)
+[![Kerri-Ann's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerri-AnnBates&count_private=true&show_icons=true&layout=compact&theme=blueberry)](https://github.com/Kerri-AnnBates/github-readme-stats)
 
 
 <!--
