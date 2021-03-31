@@ -9,7 +9,7 @@ When I'm not diving deeper into the rabbit hole of coding, I'm playing/watching 
 
 ---
 
-[![Kerri-Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerri-AnnBates&count_private=true&show_icons=true)](https://github.com/Kerri-AnnBates/github-readme-stats)
+[![Kerri-Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerri-AnnBates&count_private=true&show_icons=true&layout=compact&theme=gradient)](https://github.com/Kerri-AnnBates/github-readme-stats)
 
 
 - 📫 You can reach me on [LinkedIn:](https://www.linkedin.com/in/kerri-ann-bates/)
